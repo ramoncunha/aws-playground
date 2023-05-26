@@ -1,4 +1,4 @@
-package com.playground.sqs;
+package com.playground.sqs.infrastructure;
 
 import io.awspring.cloud.sqs.operations.SqsTemplate;
 import io.awspring.cloud.sqs.operations.TemplateAcknowledgementMode;
